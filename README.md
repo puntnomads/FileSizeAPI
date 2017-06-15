@@ -1,0 +1,1 @@
+This API returns the file size of a file that is submitted.
